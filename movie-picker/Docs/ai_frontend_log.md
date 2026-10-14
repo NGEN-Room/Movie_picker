@@ -1,7 +1,7 @@
 AI Task Log
 Task: [e.g., TASK-01: Health-check display]
 
-Date: [YYYY-MM-DD] | Developer: [Student Name]
+Date: [DD-MM-YYYY] | Developer: [Student Name]
 
 1. Goal & Requirements
 Goal: [What are you building or fixing?]
@@ -40,9 +40,9 @@ What I Learned: [Key takeaway]
 
 Next Steps: [What to work on next]
 
-Task: TASK-01: Connect Next.js Front-End to Flask Back-End
+Task: TASK-01: Connect Next.js Front-End to Flask Back-End (did this last week)
 
-Date: 2026-10-15 | Developer: [Your Name]
+Date: 15/10/26 | Developer: [Luke]
 
 1. Goal & Requirements
 Goal: Verify front-end to back-end connectivity by fetching data from Flask /api/health and displaying it on the Next.js home page.
